@@ -1,0 +1,1 @@
+https://filehippo.com/download_arduino/1.8.19/post_download/?dt=internalDownload&installerType=riseInstaller
